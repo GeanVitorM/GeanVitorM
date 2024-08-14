@@ -2,7 +2,7 @@
 
 Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Delegacia Regional De Fiscalização De Formosa" src="https://github.com/user-attachments/assets/1631f533-2e8d-4481-a20b-3da655d38236"/>](https://goias.gov.br/economia/)
+[<img align="left" height="94px" width="94px" alt="Delegacia Regional De Fiscalização De Formosa" src="https://github.com/user-attachments/assets/d1d69283-93c8-4d03-b77a-980bc2015575"/>](https://goias.gov.br/economia/)
 
 **Analista de Dados** \
 [**Delegacia Regional De Fiscalização De Formosa**](https://goias.gov.br/economia/) • Full-time \
@@ -10,7 +10,7 @@ Linguagens & Tecnologias: `Python`, `Power BI`, `Excel`, `MySQL` \
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Lads - IESGO" src="https://github.com/user-attachments/assets/89cf6741-f175-4c7a-a43a-78540d0358b5"/>](https://lads.iesgo.edu.br/index.html)
+[<img align="left" height="94px" width="94px" alt="Lads - IESGO" src="https://github.com/user-attachments/assets/1c15f1f6-8e32-45e3-8dc0-62445df80a5a"/>](https://lads.iesgo.edu.br/index.html)
 
 **Back-end Developer (Jr)** \
 [**Lads - IESGO**](https://lads.iesgo.edu.br/index.html) • Contract \
