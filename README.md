@@ -2,8 +2,7 @@
 
 Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Delegacia Regional De Fiscalização De Formosa" src="![Imagem do WhatsApp de 2024-08-14 à(s) 14 02 33_790cb837](https://github.com/user-attachments/assets/1631f533-2e8d-4481-a20b-3da655d38236)
-"/>](https://goias.gov.br/economia/)
+[<img align="left" height="94px" width="94px" alt="Delegacia Regional De Fiscalização De Formosa" src="https://github.com/user-attachments/assets/1631f533-2e8d-4481-a20b-3da655d38236)"/>](https://goias.gov.br/economia/)
 
 **Analista de Dados** \
 [**Delegacia Regional De Fiscalização De Formosa**](https://goias.gov.br/economia/) • Full-time \
