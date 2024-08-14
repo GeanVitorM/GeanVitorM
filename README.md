@@ -8,12 +8,22 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 [**Delegacia Regional De Fiscalização De Formosa**](https://goias.gov.br/economia/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Power BI`, `Excel`, `MySQL` \
 <br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Lads - IESGO" src="https://github.com/user-attachments/assets/89cf6741-f175-4c7a-a43a-78540d0358b5"/>](https://lads.iesgo.edu.br/index.html)
 
 **Back-end Developer (Jr)** \
 [**Lads - IESGO**](https://lads.iesgo.edu.br/index.html) • Contract \
 Linguagens & Tecnologias: `.NET`, `C#`, `Docker`, `MySQL` \
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Lads - IESGO" src="https://github.com/user-attachments/assets/fa79a82a-724a-4981-98ec-a5b5e5c1e6d5"/>](https://lads.iesgo.edu.br/index.html)
+
+**Analista de Suporte (Jr)** \
+[**Grupo Genesys Tecnologia**](https://www.genesysagroti.com.br/) • Contract \
+Linguagens & Tecnologias: `.NET`, `C#`, `Docker`, `MySQL` \
+<br/>
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gean-vitor-765a7a236) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
