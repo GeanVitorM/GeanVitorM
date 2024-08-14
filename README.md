@@ -10,7 +10,7 @@ Linguagens & Tecnologias: `Python`, `Power BI`, `Excel`, `MySQL` \
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Lads - IESGO" src="https://github.com/user-attachments/assets/1c15f1f6-8e32-45e3-8dc0-62445df80a5a"/>](https://lads.iesgo.edu.br/index.html)
+[<img align="left" height="94px" width="94px" alt="Lads - IESGO" src="https://github.com/user-attachments/assets/016cf9bd-0e00-4604-a6a0-939ea74f30f8"/>](https://lads.iesgo.edu.br/index.html)
 
 **Back-end Developer (Jr)** \
 [**Lads - IESGO**](https://lads.iesgo.edu.br/index.html) • Contract \
