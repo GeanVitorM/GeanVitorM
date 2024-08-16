@@ -6,7 +6,7 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 
 **Analista de Dados** \
 [**Delegacia Regional De Fiscalização De Formosa**](https://goias.gov.br/economia/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Power BI`, `Excel`, `MySQL` \
+Linguagens & Tecnologias: `R`, `Power BI`, `Excel`, `MySQL` \
 <br/>
 <br/>
 
