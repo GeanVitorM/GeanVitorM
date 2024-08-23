@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+![image](https://github.com/user-attachments/assets/00fb6b59-9b28-4823-b42b-f0d398b1a950)
 
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
