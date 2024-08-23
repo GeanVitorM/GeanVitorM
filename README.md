@@ -12,7 +12,9 @@
 **Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![.Net](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=.net)
+![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)
+![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=asp.net)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgreslq)
