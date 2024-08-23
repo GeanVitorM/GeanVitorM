@@ -12,7 +12,7 @@
 **Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=c#)
+![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=c#)
 ![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=asp.net)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
