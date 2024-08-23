@@ -1,9 +1,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Sistemas de Informação} na {IESGO}.
-- 💼 Trabalhando como {Analista de dados} na {Delegacia de fiscalização regional de formosa}.
-- 🌱 Aprendendo mais sobre {Power B.I , .NET e Analise de dados}.
+- 🎓 Estudando Sistemas de Informação na IESGO.
+- 💼 Trabalhando como Analista de dados na Delegacia de fiscalização regional de formosa.
+- 🌱 Aprendendo mais sobre Power B.I , .NET e Analise de dados.
 
 ## Minhas Skills
 
@@ -15,6 +15,7 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=asp.net)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Power B.I](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
 
 **Utilidades**
 
