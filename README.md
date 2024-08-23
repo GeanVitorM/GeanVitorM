@@ -44,7 +44,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gean-vitor-765a7a236)](www.linkedin.com/in/gean-vitor-765a7a236)
+[![Linkedin](https://img.shields.io/badge/-Gean_Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gean-vitor-765a7a236)](www.linkedin.com/in/gean-vitor-765a7a236)
 [![Gmail Badge](https://img.shields.io/badge/geanv7820@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geanv7820@gmail.com)](mailto:geanv7820@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GeanVitorM)
 
