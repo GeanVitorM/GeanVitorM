@@ -1,13 +1,9 @@
-![image](https://github.com/user-attachments/assets/00fb6b59-9b28-4823-b42b-f0d398b1a950)
-
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando {Sistemas de Informação} na {IESGO}.
+- 💼 Trabalhando como {Analista de dados} na {Delegacia de fiscalização regional de formosa}.
+- 🌱 Aprendendo mais sobre {Power B.I , .NET e Analise de dados}.
 
 ## Minhas Skills
 
