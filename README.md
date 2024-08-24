@@ -71,7 +71,7 @@ Linguagens & Tecnologias: `.NET`, `C#`, `Docker`, `MySQL` \
 
 **Analista de Suporte (Jr)** \
 [**Grupo Genesys Tecnologia**](https://www.genesysagroti.com.br/) • Contract \
-Linguagens & Tecnologias: `.NET`, `C#`, `Docker`, `MySQL` \
+Linguagens & Tecnologias: `Endian Firrewall`, `Windows Server 2019` \
 <br/>
 <br/>
 
