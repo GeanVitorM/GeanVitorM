@@ -12,7 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=c#)
 ![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=asp.net)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Power B.I](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
