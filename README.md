@@ -16,6 +16,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Power B.I](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 **Utilidades**
 
