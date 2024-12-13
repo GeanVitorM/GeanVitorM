@@ -1,63 +1,77 @@
-<h2 align="left">Hi 👋! My name is Gean Vitor and I'm a .] fr👋 Olá, eu sou Gean Vitor!<br>💻 Analista de Dados apaixonado por transformar dados em insights estratégicos.<br><br>📊 Sobre mim:<br>Com um olhar analítico e uma abordagem orientada a resultados, busco resolver problemas e criar valor por meio de análises precisas e visualizações claras. Acredito no poder dos dados para impulsionar mudanças positivas e decisões mais assertivas.om ....</h2>
+## Sobre mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Sistemas de Informação na IESGO.
+- 💼 Trabalhando como Analista de dados na Delegacia de fiscalização regional de formosa.
+- 🌱 Aprendendo mais sobre Power B.I , .NET e Analise de dados.
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=c#)
+![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Power B.I](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/GeanVitorM" title="Perfil do Gean">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeanVitorM&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-Gean_Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gean-vitor-765a7a236)](www.linkedin.com/in/gean-vitor-765a7a236)
+[![Gmail Badge](https://img.shields.io/badge/geanv7820@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geanv7820@gmail.com)](mailto:geanv7820@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GeanVitorM)
+<p align="left">👋 Olá, eu sou Gean Vitor!<br>💻 Analista de Dados apaixonado por transformar dados em insights estratégicos.</p>
 
 ###
 
 <div align="left">
-  <a href="mailto:geanv7820@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gean-vitor-765a7a236/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:geanv7820@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GeanVitorM/GeanVitorM/output/snake.svg" alt="Snake animation" />
-
-###
-### Experiência de Trabalho
-
-Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Delegacia Regional De Fiscalização De Formosa" src="https://github.com/user-attachments/assets/d1d69283-93c8-4d03-b77a-980bc2015575"/>](https://goias.gov.br/economia/)
-
-**Analista de Dados** \
-[**Delegacia Regional De Fiscalização De Formosa**](https://goias.gov.br/economia/) • Full-time \
-Linguagens & Tecnologias: `R`, `Power BI`, `Excel`, `MySQL` \
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Lads - IESGO" src="https://github.com/user-attachments/assets/016cf9bd-0e00-4604-a6a0-939ea74f30f8"/>](https://lads.iesgo.edu.br/index.html)
-
-**Back-end Developer (Jr)** \
-[**Lads - IESGO**](https://lads.iesgo.edu.br/index.html) • Contract \
-Linguagens & Tecnologias: `.NET`, `C#`, `Docker`, `MySQL` \
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Lads - IESGO" src="https://github.com/user-attachments/assets/fa79a82a-724a-4981-98ec-a5b5e5c1e6d5"/>](https://lads.iesgo.edu.br/index.html)
-
-**Analista de Suporte (Jr)** \
-[**Grupo Genesys Tecnologia**](https://www.genesysagroti.com.br/) • Contract \
-Linguagens & Tecnologias: `Endian Firrewall`, `Windows Server 2019` \
-<br/>
-<br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gean-vitor-765a7a236) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
