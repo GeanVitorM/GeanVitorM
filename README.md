@@ -2,8 +2,8 @@
 
 <p align="left">
   💻 Desenvolvedor Fullstack apaixonado por construir soluções completas — do back-end robusto à interface que o usuário toca.<br/>
-  🎓 Estudando Sistemas de Informação na IESGO.<br/>
-  💼 Trabalhando como Analista de Dados na Delegacia de Fiscalização Regional de Formosa.<br/>
+  🎓 Formado em Sistemas de Informação pela IESGO.<br/>
+  💼 Desenvolvedor na Qintess, atuando como consultor na Caixa Econômica Federal.<br/>
   🌱 Aprofundando conhecimentos em Azure, DevOps e arquiteturas distribuídas.
 </p>
 
