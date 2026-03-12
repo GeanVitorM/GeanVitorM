@@ -17,20 +17,16 @@
 ![.NET MAUI](https://img.shields.io/badge/-.NET_MAUI-333333?style=flat&logo=dotnet)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 **Front-end**
 
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 **Banco de Dados**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Power BI](https://img.shields.io/badge/-Power_BI-333333?style=flat&logo=powerbi)
 
 **DevOps & Cloud**
 
