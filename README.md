@@ -1,42 +1,52 @@
-```ansi
-[1;32mgean@dev[0m[0;37m:[0m[1;36m~[0m[0;37m$[0m
+# 👨‍💻 Gean Vitor Macedo de Sousa
+**Desenvolvedor Full Stack Sênior | Brasília - DF, Brasil**
 
-[1;37mGean Vitor Macedo de Sousa[0m
-[1;33mDesenvolvedor Full Stack Sênior[0m
-[0;37mBrasília - DF, Brasil[0m
-
-[2;37m────────────────────────────────────────────[0m
-
-[1;36m# sobre[0m
-[0;37mDesenvolvedor Full Stack Java Sênior na [0m[1;35mEngesoftware Tecnologia S/A[0m[0;37m,[0m
-[0;37matuando como consultor na [0m[1;35mCaixa Econômica Federal[0m[0;37m.[0m
-[0;37mBacharel em Sistemas de Informação pela IESGO.[0m
-[0;37mFocado em backend robusto, escalável e de alta disponibilidade.[0m
-
-[2;37m────────────────────────────────────────────[0m
-
-[1;36m# skills[0m
-
-[1;33mbackend      [0m[0;37mJava, Quarkus, .NET, C#, Node.js, TypeScript[0m
-[1;33mmobile       [0m[0;37m.NET MAUI[0m
-[1;33mfrontend     [0m[0;37mAngular, React[0m
-[1;33mdatabase     [0m[0;37mOracle, SQL Server, MySQL, PostgreSQL, MongoDB, Redis[0m
-[1;33mdevops       [0m[0;37mDocker, Azure, Azure DevOps, Git[0m
-[1;33mqualidade    [0m[0;37mSonarQube, Scrum, TDD[0m
-[1;33mferramentas  [0m[0;37mVS Code, Visual Studio, Postman, Figma, Trello[0m
-
-[2;37m────────────────────────────────────────────[0m
-
-[1;36m# stack atual[0m
-[1;32mJava + Quarkus  ›  Angular 19  ›  Oracle Database[0m
-[1;32m.NET / C#  ›  .NET MAUI[0m[0;37m  (projeto PNTrAIner)[0m
-
-[2;37m────────────────────────────────────────────[0m
-
-[1;36m# contato[0m
-[0;37mgithub    [0m[1;37mgithub.com/GeanVitorM[0m
-[0;37mlinkedin  [0m[1;37mlinkedin.com/in/gean-vitor-765a7a236[0m
-[0;37memail     [0m[1;37mgeanv7820@gmail.com[0m
-
-[1;32mgean@dev[0m[0;37m:[0m[1;36m~[0m[0;37m$ [0m[0;37m█[0m
+```text
+================================================================================
+ SOBRE MIM
+================================================================================
+> Desenvolvedor Full Stack Java Sênior na Engesoftware Tecnologia S/A, atuando 
+  como consultor na Caixa Econômica Federal.
+> Bacharel em Sistemas de Informação pela IESGO.
+> Focado em backend robusto, escalável e de alta disponibilidade.
+> Aprofundando conhecimentos em Azure, DevOps e arquiteturas distribuídas 
+  orientadas a eventos.
 ```
+
+```text
+================================================================================
+ HABILIDADES TÉCNICAS
+================================================================================
+[ Backend ]      Java, Quarkus, .NET, C#, .NET MAUI, Node.js
+[ Frontend ]     Angular, React, TypeScript
+[ Database ]     Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, Redis
+[ DevOps ]       Docker, Azure, Azure DevOps, Git
+[ Qualidade ]    SonarQube, Scrum
+[ Ferramentas ]  Visual Studio, VS Code, Postman, Insomnia, Figma, Trello
+```
+
+```text
+================================================================================
+ STACK ATUAL
+================================================================================
+Java + Quarkus (backend)  ──▶  Angular 19 (frontend)  ──▶  Oracle Database (dados)
+.NET / C#                 ──▶  .NET MAUI (mobile)          [projeto PNTrAIner]
+```
+
+```text
+================================================================================
+ CONTATO
+================================================================================
+ ██████╗ ███████╗ █████╗ ███╗   ██╗
+██╔════╝ ██╔════╝██╔══██╗████╗  ██║   github    [github.com/GeanVitorM](https://github.com/GeanVitorM)
+██║  ███╗█████╗  ███████║██╔██╗ ██║   linkedin  /in/gean-vitor-765a7a236
+██║   ██║██╔══╝  ██╔══██║██║╚██╗██║   email     geanv7820@gmail.com
+╚██████╔╝███████╗██║  ██║██║ ╚████║ 
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+<br>
+
+<a href="https://github.com/GeanVitorM" title="Perfil do Gean">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeanVitorM&theme=dracula&show_icons=true" alt="Estatísticas do GitHub de GeanVitorM" />
+</a>
