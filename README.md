@@ -1,52 +1,64 @@
 # 👨‍💻 Gean Vitor Macedo de Sousa
-**Desenvolvedor Full Stack Sênior | Brasília - DF, Brasil**
+### 💻 Desenvolvedor Full Stack Sênior | Brasília - DF, Brasil
 
-```text
-================================================================================
- SOBRE MIM
-================================================================================
-> Desenvolvedor Full Stack Java Sênior na Engesoftware Tecnologia S/A, atuando 
-  como consultor na Caixa Econômica Federal.
-> Bacharel em Sistemas de Informação pela IESGO.
-> Focado em backend robusto, escalável e de alta disponibilidade.
-> Aprofundando conhecimentos em Azure, DevOps e arquiteturas distribuídas 
-  orientadas a eventos.
+```bash
+gean@dev:~$ whoami && cat sobre.txt
+```
+> 🔹 **Desenvolvedor Full Stack Java Sênior** na Engesoftware Tecnologia S/A (Consultor CAIXA).
+> 🔹 **Bacharel em Sistemas de Informação** pela IESGO.
+> 🔹 Focado em **backend robusto**, escalável e de alta disponibilidade.
+> 🔹 Aprofundando em **Azure, DevOps** e arquiteturas distribuídas orientadas a eventos.
+
+<br>
+
+```bash
+gean@dev:~$ ls -la /skills/
 ```
 
-```text
-================================================================================
- HABILIDADES TÉCNICAS
-================================================================================
-[ Backend ]      Java, Quarkus, .NET, C#, .NET MAUI, Node.js
-[ Frontend ]     Angular, React, TypeScript
-[ Database ]     Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, Redis
-[ DevOps ]       Docker, Azure, Azure DevOps, Git
-[ Qualidade ]    SonarQube, Scrum
-[ Ferramentas ]  Visual Studio, VS Code, Postman, Insomnia, Figma, Trello
-```
+| ⚙️ Backend | 🖥️ Frontend | 💽 Database | ☁️ DevOps | 🛠️ Ferramentas & QA |
+| :--- | :--- | :--- | :--- | :--- |
+| **Java** (Quarkus) | **Angular 19** | **Oracle** | **Docker** | Visual Studio / VS Code |
+| **.NET** (C#, MAUI) | React | SQL Server | **Azure** (DevOps) | Postman / Insomnia |
+| Node.js | TypeScript | PostgreSQL / MySQL | Git | SonarQube / Scrum |
+| | | MongoDB / Redis | | Figma / Trello |
 
-```text
-================================================================================
- STACK ATUAL
-================================================================================
-Java + Quarkus (backend)  ──▶  Angular 19 (frontend)  ──▶  Oracle Database (dados)
-.NET / C#                 ──▶  .NET MAUI (mobile)          [projeto PNTrAIner]
-```
+<br>
 
-```text
-================================================================================
- CONTATO
-================================================================================
- ██████╗ ███████╗ █████╗ ███╗   ██╗
-██╔════╝ ██╔════╝██╔══██╗████╗  ██║   github    [github.com/GeanVitorM](https://github.com/GeanVitorM)
-██║  ███╗█████╗  ███████║██╔██╗ ██║   linkedin  /in/gean-vitor-765a7a236
-██║   ██║██╔══╝  ██╔══██║██║╚██╗██║   email     geanv7820@gmail.com
-╚██████╔╝███████╗██║  ██║██║ ╚████║ 
- ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```bash
+gean@dev:~$ cat stack_atual.yml
+```
+```yaml
+# Arquitetura Principal
+servico_web:
+  backend:  "Java + Quarkus"
+  frontend: "Angular 19"
+  database: "Oracle Database"
+  fluxo:    "Backend ──▶ Frontend ──▶ Database"
+
+# Projeto PNTrAIner
+app_mobile:
+  tecnologia: ".NET / C#"
+  framework:  ".NET MAUI"
+  fluxo:      ".NET ──▶ MAUI (Mobile)"
 ```
 
 <br>
 
-<a href="https://github.com/GeanVitorM" title="Perfil do Gean">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeanVitorM&theme=dracula&show_icons=true" alt="Estatísticas do GitHub de GeanVitorM" />
-</a>
+```bash
+gean@dev:~$ ./contact.sh
+```
+```text
+ ██████╗ ███████╗ █████╗ ███╗   ██╗
+██╔════╝ ██╔════╝██╔══██╗████╗  ██║  💠 [github.com/GeanVitorM](https://github.com/GeanVitorM)
+██║  ███╗█████╗  ███████║██╔██╗ ██║  💼 in/gean-vitor-765a7a236
+██║   ██║██╔══╝  ██╔══██║██║╚██╗██║  📧 geanv7820@gmail.com
+╚██████╔╝███████╗██║  ██║██║ ╚████║ 
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+<div align="center">
+  <br>
+  <a href="https://github.com/GeanVitorM" title="Perfil do Gean">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GeanVitorM&theme=tokyonight&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" />
+  </a>
+</div>
